@@ -1,0 +1,7 @@
+search_tweets_fullarchive_dev:
+  account_type: premium
+  endpoint:
+  consumer_key : "key"
+  consumer_secret : "key"
+#  bearer_token: ""
+
